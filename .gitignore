@@ -1,0 +1,16 @@
+
+.DS_Store
+.idea/deployment.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/N324-BAConnect.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/jsLibraryMappings.xml
+.idea/webServers.xml
+.idea/encodings.xml
+.project
+.settings/.jsdtscope
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+.vscode/launch.json
